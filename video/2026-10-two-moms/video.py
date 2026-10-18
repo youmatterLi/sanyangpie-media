@@ -11,8 +11,7 @@ out, audio = sys.argv[1], sys.argv[2]
 SCENES = [
     # last weekend: studio session
     ("63b7d228-image.jpg", 3.4, "上个周末 · 灯光机位就位", (1.00, 1.07), 0.0),
-    ("5946f857-image.jpg", 3.4, "第一位事业型妈妈", (1.08, 1.00), 0.0),
-    ("ddb510f1-image.jpg", 3.4, "聊完，留下一张合影", (1.00, 1.07), 0.03),
+    ("ddb510f1-image.jpg", 3.6, "第一位事业型妈妈", (1.08, 1.00), 0.03),
     # this weekend: living-room session
     ("7e12a5fc-image.jpg", 3.4, "这个周末 · 换到家里的客厅", (1.00, 1.08), 0.0),
     ("e8c9d316-image.jpg", 3.4, "第二位事业型妈妈", (1.08, 1.00), 0.03),
