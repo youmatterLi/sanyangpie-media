@@ -1,0 +1,26 @@
+Privacy Policy — Sanyangpie Publisher
+
+Last updated: 24 October 2026
+
+Sanyangpie Publisher is a private tool used solely by its author to upload her own podcast content (散养Pie) to her own TikTok, YouTube and Instagram accounts.
+
+No third-party users
+The tool is not distributed or made available to anyone else. It has no public user interface, no user accounts and no sign-up process.
+
+Data collected
+The tool collects no data from any other person. It does not use cookies, does not track anyone, and does not operate a public service.
+
+TikTok
+The tool uses TikTok Login Kit and the Content Posting API only to post the author's own videos to the author's own TikTok account, after the author authorises it. The data it handles is limited to the author's TikTok access token, open ID, basic profile information needed to post (for example the privacy options available to the account), and the status and ID of posts it publishes. This data is stored only on the author's own computer, is never sold or shared with any third party, and is used for no other purpose.
+
+YouTube and Instagram
+The tool also uses YouTube API Services and the Instagram API to publish the author's own videos. By using YouTube API Services the author is bound by the YouTube Terms of Service (https://www.youtube.com/t/terms) and the Google Privacy Policy (https://policies.google.com/privacy). Only the IDs of uploaded videos are stored, locally, to avoid duplicate uploads.
+
+Security and retention
+Authorisation credentials are kept on the author's computer and are deleted when no longer needed or when access is revoked.
+
+Revoking access
+TikTok access can be revoked at any time in the TikTok app under Settings and privacy → Security → Manage app permissions. Google access can be revoked at https://myaccount.google.com/permissions.
+
+Contact
+youmatteryk@gmail.com
